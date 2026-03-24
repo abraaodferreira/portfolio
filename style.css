@@ -41,4 +41,5 @@ body{
 .topo-direita a:hover{
     background-color: azure;
     transition: 0.3s;
+    border-radius: 10px;
 }
