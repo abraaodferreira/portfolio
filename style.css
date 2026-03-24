@@ -3,6 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+body{
+    background-image: url();
+}
 .topo{
     height: 4.7em;
     background-color:whitesmoke;
